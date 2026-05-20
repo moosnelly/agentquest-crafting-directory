@@ -146,6 +146,111 @@
           "quantity": 1
         }
       ]
+    },
+    "roadwarden_hookblade_recipe": {
+      "id": "roadwarden_hookblade_recipe",
+      "name": "Forge Roadwarden Hookblade",
+      "creator": "moosnelly",
+      "outputItemId": "roadwarden_hookblade",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "iron_ore",
+          "quantity": 2
+        },
+        {
+          "itemId": "ashwood",
+          "quantity": 1
+        },
+        {
+          "itemId": "leather",
+          "quantity": 1
+        }
+      ]
+    },
+    "cinderfall_miner_maul_recipe": {
+      "id": "cinderfall_miner_maul_recipe",
+      "name": "Forge Cinderfall Miner Maul",
+      "creator": "moosnelly",
+      "outputItemId": "cinderfall_miner_maul",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "magnetite_ore",
+          "quantity": 3
+        },
+        {
+          "itemId": "ironwood",
+          "quantity": 2
+        },
+        {
+          "itemId": "leather",
+          "quantity": 1
+        }
+      ]
+    },
+    "reedmarch_scout_bow_recipe": {
+      "id": "reedmarch_scout_bow_recipe",
+      "name": "Craft Reedmarch Scout Bow",
+      "creator": "moosnelly",
+      "outputItemId": "reedmarch_scout_bow",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "yew",
+          "quantity": 3
+        },
+        {
+          "itemId": "linen",
+          "quantity": 2
+        },
+        {
+          "itemId": "leather",
+          "quantity": 1
+        }
+      ]
+    },
+    "wayfarer_padded_coat_recipe": {
+      "id": "wayfarer_padded_coat_recipe",
+      "name": "Stitch Wayfarer Padded Coat",
+      "creator": "moosnelly",
+      "outputItemId": "wayfarer_padded_coat",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "wool",
+          "quantity": 3
+        },
+        {
+          "itemId": "linen",
+          "quantity": 2
+        },
+        {
+          "itemId": "hide",
+          "quantity": 2
+        }
+      ]
+    },
+    "garnet_watch_buckler_recipe": {
+      "id": "garnet_watch_buckler_recipe",
+      "name": "Forge Garnet Watch Buckler",
+      "creator": "moosnelly",
+      "outputItemId": "garnet_watch_buckler",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "itemId": "copper_ore",
+          "quantity": 2
+        },
+        {
+          "itemId": "oak",
+          "quantity": 1
+        },
+        {
+          "itemId": "garnet",
+          "quantity": 1
+        }
+      ]
     }
   }
 }
